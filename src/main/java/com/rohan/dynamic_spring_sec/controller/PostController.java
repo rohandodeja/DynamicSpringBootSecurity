@@ -14,7 +14,7 @@ import com.rohan.dynamic_spring_sec.entity.Post;
 import com.rohan.dynamic_spring_sec.service.PostService;
 
 @RestController
-@RequestMapping(value =  "/user" )
+@RequestMapping(value =  "/post" )
 public class PostController {
 
 	@Autowired
